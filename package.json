@@ -11,6 +11,7 @@
     "server": "json-server --w src/assets/db.json --port 3004",
     "deploy": "gh-pages -d dist"
   },
+  "homepage": "https://cyrano21.github.io/country-app-FS/",
   "dependencies": {
     "@testing-library/jest-dom": "^6.1.5",
     "@testing-library/react": "^14.1.2",
